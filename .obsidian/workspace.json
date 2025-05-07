@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Rex Slicing.md",
+                "file": "Zettelkasten/3D printer Calibration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rex Slicing"
+              "title": "3D printer Calibration"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "64a6299599f617a9",
   "lastOpenFiles": [
-    "README.md",
     "Zettelkasten/Rex Slicing.md",
     "Zettelkasten/Captain Rex Armour.md",
+    "Zettelkasten/3D printer Calibration.md",
+    "Zettelkasten/Lexical.md",
+    "README.md",
     "Templates/Down Zettel Idea.md",
     "Templates/Map of Content.md",
     "Templates/Core Zettel Idea.md",
