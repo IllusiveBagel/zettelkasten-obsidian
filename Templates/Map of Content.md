@@ -1,6 +1,6 @@
 {{date:DD-MM-YYYY}}{{time:HH-mm}}
 Status: #MOC
-Tags:
+Tags: [[Templates]]
 
 # {{title}}
 

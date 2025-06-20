@@ -1,6 +1,6 @@
 01-05-2025 16-32
 Status: #idea
-Up: [[Captain Rex Armour]]
+Up: [[Captain Rex Armour]] [[3D Printing]]
 
 # Rex Slicing
 
