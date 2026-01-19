@@ -1,5 +1,5 @@
 19-01-2026 13-22
-Status: #idea
+Status: #Radio
 Tags: [[Radio]]
 
 # Radio Foundation License
