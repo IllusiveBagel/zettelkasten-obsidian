@@ -1,5 +1,5 @@
 02-05-2025 15-33
-Status: #idea
+Status: #3DPrinting
 Tags: [[3D Printing]]
 
 # 3D printer Calibration

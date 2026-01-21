@@ -1,5 +1,5 @@
 01-05-2025 16-01
-Status: #idea
+Status: #3DPrinting
 Tags: [[3D Printing]]
 
 # Captain Rex Armour
