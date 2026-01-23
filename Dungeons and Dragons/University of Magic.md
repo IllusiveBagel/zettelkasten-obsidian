@@ -1,4 +1,4 @@
-Links: [[D&D]] [[Main City]]
+Links: [[Main City]]
 Tags: #DnD 
 
 The university is the oldest part of the city with it existing before the city was built around it. This is considered the best place to learn and perfect magic and has taught all of the greatest wizards and witches.

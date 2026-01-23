@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 15612561
       }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 13.0208333333333,
   "linkStrength": 1,
   "linkDistance": 150,
-  "scale": 0.7132754626224506,
+  "scale": 0.7132754626224529,
   "close": true
 }

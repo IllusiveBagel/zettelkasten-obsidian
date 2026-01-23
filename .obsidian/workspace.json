@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db86215dd3712e94",
+        "id": "9db82fc870135f75",
         "type": "tabs",
         "children": [
           {
-            "id": "a90d917f2aecd028",
+            "id": "ae940a19ef13baf0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOC",
+                "query": "tag:#DnD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,10 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a90d917f2aecd028",
+  "active": "ae940a19ef13baf0",
   "lastOpenFiles": [
+    "Dungeons and Dragons/Main City Port.md",
     "Dungeons and Dragons/Main City.md",
     "Dungeons and Dragons/University of Magic.md",
+    "Dungeons and Dragons/Tainted Districts.md",
+    "Dungeons and Dragons/Main City Politics.md",
+    "Zettelkasten/Lexical.md",
     "Zettelkasten/Technical Basics.md",
     "Zettelkasten/LonelyAddicts.md",
     "Zettelkasten/React.md",
@@ -192,10 +196,6 @@
     "Dungeons and Dragons",
     "Zettelkasten/LA - Mobile Application.md",
     "Zettelkasten/LA - Login and Sign up Page.md",
-    "Zettelkasten/LA - Clean Code.md",
-    "Zettelkasten/LA - Methods.md",
-    "Zettelkasten/LA - Coding Standards.md",
-    "Zettelkasten/OS Dev Kernel Initialisation.md",
     "Untitled.canvas",
     "Files",
     "Reference Notes",

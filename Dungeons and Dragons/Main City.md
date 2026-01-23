@@ -1,5 +1,5 @@
 Links: [[D&D]]
-Tags: #DnD
+Tags: #Location
 
 The main city is a large walled city that is a magical centre where wizards come from all over to study and experience the city. The economy within the city is dependant on its many shops and magical tourism. The city has a wagon wheel like road structure with the [[University of Magic]] in the very middle of the city. 
 
